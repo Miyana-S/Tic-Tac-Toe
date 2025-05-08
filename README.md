@@ -9,11 +9,18 @@ A themed Tic-Tac-Toe game for Windows with sound effects, multiple visual themes
 - Visual themes for the board
 - Sound effects for placing moves, wins, and draws
 
-## 🧰 Requirements
+## 🧰 Requirements (to run code- [Source Code](https://github.com/Miyana-S/Tic-Tac-Toe/Main/ttt.py))
 
 - Python 3.x
 - `tkinter` (usually comes with Python)
 - `pygame` (for sound effects)(to be installed)
+
+## 📦 Download the App
+
+You can download the ready-to-run **Windows executable (.exe)** from the [Releases section](https://github.com/Miyana-S/Tic-Tac-Toe/releases) under Assets.
+
+No need to install Python — just download the `Tic-Tac-Toe.exe`, run it, and enjoy!
+
 
 ## 📜 License
 
