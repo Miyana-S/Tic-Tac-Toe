@@ -9,7 +9,7 @@ A themed Tic-Tac-Toe game for Windows with sound effects, multiple visual themes
 - Visual themes for the board
 - Sound effects for placing moves, wins, and draws
 
-## 🧰 Requirements (to run code- [Source Code](https://github.com/Miyana-S/Tic-Tac-Toe/Main/ttt.py))
+## 🧰 Requirements (to run code- [Source Code](https://github.com/Miyana-S/Tic-Tac-Toe/blob/main/Main/ttt.py))
 
 - Python 3.x
 - `tkinter` (usually comes with Python)
