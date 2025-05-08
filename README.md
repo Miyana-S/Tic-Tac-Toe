@@ -17,7 +17,7 @@ A themed Tic-Tac-Toe game for Windows with sound effects, multiple visual themes
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software with attribution.
+This project is licensed under the [MIT License](Tic-Tac-Toe/LICENSE). You are free to use, modify, and distribute this software with attribution.
 
 ---
 
