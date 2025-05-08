@@ -1,2 +1,2 @@
-- Run the ttt.py file with this files structure.
+- Run the ttt.py file with this files structure having the required assets as given.
 - ttt.py is the main game code
