@@ -1,4 +1,4 @@
-# 🎮 Themed Tic-Tac-Toe Game (.exe Only)
+# 🎮 Themed Tic-Tac-Toe Game
 
 A themed Tic-Tac-Toe game for Windows with sound effects, multiple visual themes, and both Player vs Player and Player vs Computer modes.
 
@@ -11,7 +11,7 @@ A themed Tic-Tac-Toe game for Windows with sound effects, multiple visual themes
 
 ## 🖥️ How to Run (Windows only)
 
-1. Download the latest `.exe` file from the (https://github.com/Miyana-S/Tic-Tac-Toe) section.
+1. Download the latest file from the (https://github.com/Miyana-S/Tic-Tac-Toe) section.
 2. Double-click to launch the game.
 
 > ⚠️ Note: Windows may show a warning because the file is unsigned. You can safely allow it if you trust the source.
