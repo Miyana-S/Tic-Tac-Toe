@@ -1,6 +1,6 @@
 # 🎮 Themed Tic-Tac-Toe Game
 
-A themed Tic-Tac-Toe game for Windows with sound effects, multiple visual themes, and both Player vs Player and Player vs Computer modes.
+A themed Tic-Tac-Toe game for Windows with sound effects, multiple visual themes, and both Player vs Player and Player vs Computer modes. 
 
 ## 💡 Features
 
